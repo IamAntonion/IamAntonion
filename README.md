@@ -4,6 +4,8 @@
 Стек:
 C++, C++17, STL, ООП, Git
 
+HH.ru: https://spb.hh.ru/resume/209274d5ff0c9337b00039ed1f434e3334357a
+
 
 <!--
 **IamAntonion/IamAntonion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
