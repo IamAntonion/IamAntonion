@@ -6,6 +6,10 @@ C++, C++17, STL, ООП, Git, Unity
 
 [HH.ru](https://spb.hh.ru/resume/209274d5ff0c9337b00039ed1f434e3334357a)
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
 
 <!--
 **IamAntonion/IamAntonion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
