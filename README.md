@@ -10,6 +10,7 @@ C++, C++17, STL, ООП, Git, Unity
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGliN2hqNjRhdHlxaTM5Ym9vZWY1a2gzMHQ4MWY4cGFlMGV0OWE5dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Yfl7CS7vQqnebA69aH/giphy.gif" width="300"/>
 </div>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IamAntonion&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!--
 **IamAntonion/IamAntonion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
