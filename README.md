@@ -16,6 +16,8 @@ C++, C++17, STL, ООП, Git, Unity
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/IamAntonion?ext=heatmap)
 
+![Codewars](https://github.r2v.ch/codewars?user=IamAntonion&theme=gradient)
+
 <!--
 **IamAntonion/IamAntonion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
