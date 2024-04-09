@@ -1,5 +1,12 @@
-### Привет! 👋 Меня зовут Антон, я разработчик C++
-Я выпускник курса С++ Яндекс.Практикума
+# About
+- :wave: Hi, I'm @chemodanovvv @pururum or Anton Chemodanov
+- :baby: Started with Backend Dev: C++
+- :books: Currently learning SQL
+- :hourglass: Also had experience with C#, Python
+- :computer: Completed courses Yandex Practicum "C++ Develop"
+
+# Stack
+<img title="cpp" alt="cpp" height="50px" src="logo/cpp_logo.png" /> <img title="github" alt="github" height="50px" src="logo/github_logo.png" />
 
 Стек:
 C++, C++17, STL, ООП, Git, Unity, protobuf
