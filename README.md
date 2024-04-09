@@ -15,7 +15,7 @@
  <img title="hh.ru" alt="hh.ru" height="50px" src="logo/hh_logo.png" />
 
 # Stack
-<img title="vsc" alt="vsc" height="50px" src="logo/vsc_logo.png" /> <img title="qt" alt="qt" height="50px" src="logo/qt_logo.png" /> <img title="cmake" alt="cmake" height="50px" src="logo/cmake_logo.png" /> <img title="cp" alt="c" height="50px" src="logo/c_logo.png" /> <img title="cpp" alt="cpp" height="50px" src="logo/cpp_logo.png" /> <img title="csh" alt="csh" height="50px" src="logo/csh_logo.png" /><img title="unity" alt="unity" height="50px" src="logo/unity_logo.png" /><img title="github" alt="github" height="50px" src="logo/github_logo.png" />
+<img title="vsc" alt="vsc" height="50px" src="logo/vsc_logo.png" /> <img title="qt" alt="qt" height="50px" src="logo/qt_logo.png" /> <img title="cmake" alt="cmake" height="50px" src="logo/cmake_logo.png" /> <img title="cp" alt="c" height="50px" src="logo/c_logo.png" /> <img title="cpp" alt="cpp" height="50px" src="logo/cpp_logo.png" /> <img title="csh" alt="csh" height="50px" src="logo/csh_logo.png" /><img title="unity" alt="unity" height="50px" src="logo/unity_logo.png" /> <img title="github" alt="github" height="50px" src="logo/github_logo.png" /> <img title="gitlab" alt="gitlab" height="50px" src="logo/gitlab_logo.png" />
 
 __C++__: C++17, STL, OOP, algorithm, graphs, protobuf
 
