@@ -11,10 +11,11 @@
 
 ## You can find me at
 
-<img title="https://t.me/Chemodanovvv" alt="t.me" height="50px" src="logo/tme_logo.png" /> <img title="https://spb.hh.ru/resume/be55e344ff0d085bdc0039ed1f686253397672" alt="hh.ru" height="50px" src="logo/hh_logo.png" />
+<img title="t.me" alt="t.me" height="50px" src="logo/tme_logo.png" />
+ <img title="hh.ru" alt="hh.ru" height="50px" src="logo/hh_logo.png" />
 
 # Stack
-<img title="vsc" alt="vsc" height="50px" src="logo/vsc_logo.png" /> <img title="cp" alt="c" height="50px" src="logo/c_logo.png" /> <img title="cpp" alt="cpp" height="50px" src="logo/cpp_logo.png" /> <img title="csh" alt="csh" height="50px" src="logo/csh_logo.png" /><img title="unity" alt="unity" height="50px" src="logo/unity_logo.png" /><img title="github" alt="github" height="50px" src="logo/github_logo.png" />
+<img title="vsc" alt="vsc" height="50px" src="logo/vsc_logo.png" /> <img title="qt" alt="qt" height="50px" src="logo/qt_logo.png" /> <img title="cmake" alt="cmake" height="50px" src="logo/cmake_logo.png" /> <img title="cp" alt="c" height="50px" src="logo/c_logo.png" /> <img title="cpp" alt="cpp" height="50px" src="logo/cpp_logo.png" /> <img title="csh" alt="csh" height="50px" src="logo/csh_logo.png" /><img title="unity" alt="unity" height="50px" src="logo/unity_logo.png" /><img title="github" alt="github" height="50px" src="logo/github_logo.png" />
 
 __C++__: C++17, STL, OOP, algorithm, graphs, protobuf
 
