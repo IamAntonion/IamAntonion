@@ -18,13 +18,13 @@
 
 __C++__: C++17, STL, OOP, algorithm, graphs, protobuf
 
-## You can see my solutions on platforms such as
-
-<img title="https://leetcode.com/IamAntonion/" alt="leetcode.com" height="50px" src="logo/leetcode_logo.png" /> <img title="https://www.codewars.com/users/IamAntonion" alt="leetcode.com" height="50px" src="logo/codewars_logo.png" />
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IamAntonion&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamAntonion&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## You can see my solutions on platforms such as
+
+<img title="https://leetcode.com/IamAntonion/" alt="leetcode.com" height="50px" src="logo/leetcode_logo.png" /> <img title="https://www.codewars.com/users/IamAntonion" alt="leetcode.com" height="50px" src="logo/codewars_logo.png" />
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/IamAntonion?ext=heatmap)
 
