@@ -6,7 +6,7 @@
 - :computer: Completed courses Yandex Practicum "C++ Develop"
 
 # Stack
-<img title="cpp" alt="cpp" height="50px" src="logo/cpp_logo.png" /> <img title="github" alt="github" height="50px" src="logo/github_logo.png" />
+<img title="cpp" alt="cpp" height="50px" src="logo/cpp_logo.png" /> <img title="github" alt="github" height="50px" src="logo/github_logo.png" /> <img title="vsc" alt="vsc" height="50px" src="logo/vsc_logo.png" />
 
 Стек:
 C++, C++17, STL, ООП, Git, Unity, protobuf
