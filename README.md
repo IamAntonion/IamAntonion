@@ -1,8 +1,13 @@
 # About
 - :wave: Hi, I'm @chemodanovvv @pururum or Anton Chemodanov
 - :baby: Started with Backend Dev: C++
+<<<<<<< HEAD
 - :books: Currently learning Java
 - :hourglass: Also had experience with C#, Python, SQL
+=======
+- :books: Currently learning SQL and Qt Creator
+- :hourglass: Also had experience with C#, Python
+>>>>>>> 86bf5256964a044cd916f46ac9eb7934a8b7a0f7
 - :computer: Completed courses Yandex Practicum "C++ Develop"
 
 <div id="header" align="center">
