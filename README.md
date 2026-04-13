@@ -18,7 +18,7 @@
 # Stack
 <img title="vsc" alt="vsc" height="50px" src="logo/vsc_logo.png" /> <img title="qt" alt="qt" height="50px" src="logo/qt_logo.png" /> <img title="cmake" alt="cmake" height="50px" src="logo/cmake_logo.png" /> <img title="cp" alt="c" height="50px" src="logo/c_logo.png" /> <img title="cpp" alt="cpp" height="50px" src="logo/cpp_logo.png" /> <img title="csh" alt="csh" height="50px" src="logo/csh_logo.png" /><img title="unity" alt="unity" height="50px" src="logo/unity_logo.png" /> <img title="github" alt="github" height="50px" src="logo/github_logo.png" /> <img title="gitlab" alt="gitlab" height="50px" src="logo/gitlab_logo.png" /> <img title="SQLite" alt="SQLite" height="50px" src="logo/sqlite_logo.png" /> <img title="postgreSQL" alt="postgreSQL" height="50px" src="logo/postgresql_logo.png" />
 
-__C++__: C++17, STL, OOP, algorithm, graphs, protobuf
+__C++__:
 - C++17
 - STL
 - OOP
@@ -27,12 +27,14 @@ __C++__: C++17, STL, OOP, algorithm, graphs, protobuf
 - QT
 - REST API
 - BOOST
+- SQLITE
 
 __Python__:
 - REST API
 - JSON
 - DJango
 - Telegram BOT
+- SQLITE
 
 __C#__: UnityLibrary
 
